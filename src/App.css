@@ -36,3 +36,8 @@ img{
 img:hover{
   cursor: pointer;
 }
+
+.drake-container {
+  text-align: center;
+  display: block;
+}
